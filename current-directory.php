@@ -1,4 +1,6 @@
 <?php
+// https://github.com/malisahin89
+// https://www.linkedin.com/in/muhammetalisahin/
 function webpcevir($fileinfo, $quality)
 {
 
